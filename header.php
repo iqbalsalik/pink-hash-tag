@@ -2,7 +2,7 @@
 <html lang="en">
 
 
-<!-- Mirrored from uithemez.com/i/restfolio/home1_restaurant_original/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 14 Oct 2024 10:13:52 GMT -->
+<!-- Mirrored from uithemez.com/i/Pink Hansh Tag/home1_restaurant_original/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 14 Oct 2024 10:13:52 GMT -->
 <head>
     <!-- Metas -->
     <meta charset="utf-8">
@@ -13,7 +13,7 @@
     <meta name="author" content="">
 
     <!-- Title  -->
-    <title>Restfolio | Restaurant</title>
+    <title>Pink Hansh Tag | Restaurant</title>
 
     <!-- Favicon -->
     <link rel="shortcut icon" href="assets/img/fav.png" title="Favicon" sizes="16x16">
@@ -100,42 +100,42 @@
         <div class="food-slider">
             <div class="swiper-wrapper">
                 <div class="swiper-slide">
-                    <a href="https://uithemez.com/i/restfolio/inner-pages/portfolio_single.html" class="dish-card">
+                    <a href="https://uithemez.com/i/Pink Hansh Tag/inner-pages/portfolio_single.html" class="dish-card">
                         <div class="img">
                             <img src="assets/img/menu_dishes/chicken.png" alt="">
                         </div>
                     </a>
                 </div>
                 <div class="swiper-slide">
-                    <a href="https://uithemez.com/i/restfolio/inner-pages/portfolio_single.html" class="dish-card">
+                    <a href="https://uithemez.com/i/Pink Hansh Tag/inner-pages/portfolio_single.html" class="dish-card">
                         <div class="img">
                             <img src="assets/img/menu_dishes/chicken_peppers.png" alt="">
                         </div>
                     </a>
                 </div>
                 <div class="swiper-slide">
-                    <a href="https://uithemez.com/i/restfolio/inner-pages/portfolio_single.html" class="dish-card">
+                    <a href="https://uithemez.com/i/Pink Hansh Tag/inner-pages/portfolio_single.html" class="dish-card">
                         <div class="img">
                             <img src="assets/img/menu_dishes/meat.png" alt="">
                         </div>
                     </a>
                 </div>
                 <div class="swiper-slide">
-                    <a href="https://uithemez.com/i/restfolio/inner-pages/portfolio_single.html" class="dish-card">
+                    <a href="https://uithemez.com/i/Pink Hansh Tag/inner-pages/portfolio_single.html" class="dish-card">
                         <div class="img">
                             <img src="assets/img/menu_dishes/nachos_guacamole.png" alt="">
                         </div>
                     </a>
                 </div>
                 <div class="swiper-slide">
-                    <a href="https://uithemez.com/i/restfolio/inner-pages/portfolio_single.html" class="dish-card">
+                    <a href="https://uithemez.com/i/Pink Hansh Tag/inner-pages/portfolio_single.html" class="dish-card">
                         <div class="img">
                             <img src="assets/img/menu_dishes/pasta.png" alt="">
                         </div>
                     </a>
                 </div>
                 <div class="swiper-slide">
-                    <a href="https://uithemez.com/i/restfolio/inner-pages/portfolio_single.html" class="dish-card">
+                    <a href="https://uithemez.com/i/Pink Hansh Tag/inner-pages/portfolio_single.html" class="dish-card">
                         <div class="img">
                             <img src="assets/img/menu_dishes/salad.png" alt="">
                         </div>

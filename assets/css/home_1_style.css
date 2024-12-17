@@ -10,6 +10,15 @@
   font-size: 16px;
   color: #b5b5b5;
 }
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  scroll-behavior: smooth;
+}
+
 .tc-topNav-st1 .welcome::before {
   position: absolute;
   content: "";
@@ -143,7 +152,7 @@
 }
 .tc-header-st1 .header-card {
   position: relative;
-  height: 800px;
+  height: 650px;
   min-height: -webkit-max-content;
   min-height: -moz-max-content;
   min-height: max-content;
@@ -179,6 +188,7 @@
   height: 100%;
   -o-object-fit: cover;
      object-fit: cover;
+     z-index: 1000;
 }
 .tc-header-st1 .header-card h2 {
   font-size: calc(6vw + 20px);
@@ -881,7 +891,8 @@
 
 .home-st1 {
   position: relative;
-  background-color: #1B1B1B;
+  /* background-color: #1B1B1B; */
+  background-color: #6e2446;
   color: #b5b5b5;
 }
 .home-st1 #scrollsmoother-container {

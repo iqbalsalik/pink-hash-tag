@@ -221,4 +221,27 @@ $(function () {
 
 });
   
+function scrollToFoodMenu(event) {
+    event.preventDefault();
+    document.getElementById('foodMenu').scrollIntoView({ behavior: 'smooth' });
+}
+
+
+document.getElementById('book-table').addEventListener('click', function () {
+    console.log("clicked");
+    var fullName = document.getElementsByName('full_name')[0].value;
+    var phoneNumber = document.getElementsByName('phone_number')[0].value;
+    var date = document.getElementsByName('date')[0].value;
+    var time = document.getElementsByName('time')[0].value;
+    var persons = document.getElementsByName('persons')[0].value;
+
+    var subject = "Booking Table";
+    var body = 'Full Name: ' + fullName + '\nPhone Number: ' + phoneNumber + '\nDate: ' + date + '\nTime: ' + time + '\nNumber of Persons: ' + persons;
+
+    var mailtoLink = 'mailto:Pinkhashtagcaferestro@gmail.com?subject=' + encodeURIComponent(subject) + '&body=' + encodeURIComponent(body);
+    window.location.href = mailtoLink;
+});
+
+  
+  
 

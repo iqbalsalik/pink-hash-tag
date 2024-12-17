@@ -279,5 +279,5 @@ $(selector).on('click', function(){
 </body>
 
 
-<!-- Mirrored from uithemez.com/i/restfolio/home1_restaurant_original/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 14 Oct 2024 10:14:28 GMT -->
+<!-- Mirrored from uithemez.com/i/Pink Hansh Tag/home1_restaurant_original/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 14 Oct 2024 10:14:28 GMT -->
 </html>
